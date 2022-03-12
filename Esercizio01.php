@@ -6,5 +6,4 @@ echo"<h1>CALCOLO DEL DOPPIO</h1>
 <p>il doppio di $numero è $doppio</p>
 ";
 
-
 ?>

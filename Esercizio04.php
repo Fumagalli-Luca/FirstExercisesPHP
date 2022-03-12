@@ -9,9 +9,8 @@ for($c=0;$c<=10;$c++){
 $tabellina=$i*$c;
 echo"$tabellina</br>";
 
-
-
 }
 $i++;
 }
+
 ?>

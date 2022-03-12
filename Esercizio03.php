@@ -10,11 +10,11 @@ else{
 echo"il numero $a è dispari</br>";
 }
 
-
 if($b%2==0){
     echo"il numero $b è pari</br>";
     }
     else{
     echo"il numero $b è dispari</br>";
     }
+    
 ?>
